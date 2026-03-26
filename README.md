@@ -8,3 +8,5 @@ A D2Q9 LBM code is presented which inputs the segmented AVI stacks (pore space i
     - velocity_fields.npz                     
     - velocity_maps/vel_slice_*.png          
 
+## AI Disclosure
+Parts of this code were generated with assitance by ChatGPT and refined by the developer
